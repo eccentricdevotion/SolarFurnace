@@ -1,0 +1,14 @@
+author: eccentric_nz
+description: Daylight detectors on top of furnaces power the furnace :)
+main: me.eccentric_nz.solarfurnace.SolarFurnace
+name: SolarFurnace
+load: POSTWORLD
+version: 1.0.0
+api-version: 1.18
+website: http://dev.bukkit.org/projects/solarfurnace
+dev-url: http://dev.bukkit.org/projects/solarfurnace
+url: http://dev.bukkit.org/projects/solarfurnace
+permissions:
+  solarfurnace.place:
+    description: Give players the ability to create solar furnaces by placing a daylight dector on top of a furnace.
+    default: op
